@@ -23,8 +23,7 @@
 
 ### Find Me Online
 
-- **Adobe Stock**: [MafrenX Contributor](https://stock.adobe.com/contributor/213468140/MafrenX)
-- **Instagram**: [@fikriaja1028](https://instagram.com/fikriaja1028)
+- **Adobe Stock**: <a href="https://stock.adobe.com/contributor/213468140/MafrenX" target="_blank">MafrenX Contributor</a>
 
 ---
 
