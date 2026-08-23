@@ -34,6 +34,6 @@
 
 <p align="center">
   <a href="https://github.com/fikriaja1028">GitHub</a> ·
-  <a href="https://stock.adobe.com/contributor/213468140/MafrenX">Adobe Stock</a>
+  <a href="https://stock.adobe.com/contributor/213468140/MafrenX">Adobe Stock</a> .
   <a href="https://www.dreamstime.com/MafrenX_info">Dreamstime</a>
 </p>
