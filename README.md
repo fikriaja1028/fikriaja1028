@@ -1,4 +1,4 @@
-<h1 align="center">Fikri Imanulhaq</h1>
+<h1 align="center">HI, I'm Fikri</h1>
 
 <p align="center">
   <a href="https://github.com/fikriaja1028">
