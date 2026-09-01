@@ -17,7 +17,7 @@
 - **Username**: MafrenX
 - **Education**: Student at SMK Antartika 2 Sidoarjo, majoring in Rekayasa Perangkat Lunak (Software Engineering / RPL).
 - **Internship Experience**: Content Writer (technical articles) & Android Developer.
-- **Side Activity**: Contributor at Adobe Stock under the name MafrenX.
+- **Side Activity**: Contributor at Adobe Stock and Dreamstime under the name MafrenX.
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <i>"Good code is code that can be read by humans and executed by machines."</i>
+  <i>"My Code works, I don't know why"</i>
 </p>
 
 <p align="center">
