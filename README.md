@@ -32,6 +32,8 @@
   <i>"My Code works, I don't know why"</i>
 </p>
 
+<img src="https://raw.githubusercontent.com/fikriaja1028/fikriaja1028/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 <p align="center">
   <a href="https://github.com/fikriaja1028">GitHub</a> ·
   <a href="https://stock.adobe.com/contributor/213468140/MafrenX">Adobe Stock</a> .
